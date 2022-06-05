@@ -1,4 +1,4 @@
-module github.com/ari1021/nestedmap
+module github.com/arkuchy/nestedmap
 
 go 1.18
 

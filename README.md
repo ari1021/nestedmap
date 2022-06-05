@@ -1,4 +1,4 @@
-# nestedmap [![Go Reference](https://pkg.go.dev/badge/github.com/ari1021/nestedmap.svg)](https://pkg.go.dev/github.com/ari1021/nestedmap)
+# nestedmap [![Go Reference](https://pkg.go.dev/badge/github.com/arkuchy/nestedmap.svg)](https://pkg.go.dev/github.com/arkuchy/nestedmap)
 
 `nestedmap` is a nested map for Go.
 
@@ -13,7 +13,7 @@
 ### install
 
 ```
-$ go get github.com/ari1021/nestedmap
+$ go get github.com/arkuchy/nestedmap
 ```
 
 ### usage
@@ -24,7 +24,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ari1021/nestedmap"
+	"github.com/arkuchy/nestedmap"
 )
 
 func main() {
